@@ -1,0 +1,4 @@
+- 👋 I’m Alessandro, Italy
+- 🛰️ I’m an aerospace & communications engineer
+- 🌱 I’m currently learning Python, js, and general software development (when I have some free time)
+- 💞️ I’m looking to collaborate mainly testing unstable releases, or translating from English to Italian, and occasionally fixing bugs
